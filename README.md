@@ -31,11 +31,11 @@
 ### VPS专用一键脚本如下：快捷方式：```sb```
 ### (注意：serv00不可用，请继续往下翻)
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/7tuu/serv00-vpn/main/serv00.sh)
 ```
 或者
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/7tuu/serv00-vpn/main/serv00.sh)
 ```
 
 ### Sing-box-yg脚本界面预览图（注：相关参数随意填写，仅供围观）
